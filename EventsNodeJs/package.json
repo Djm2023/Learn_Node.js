@@ -1,0 +1,11 @@
+{
+  "name": "eventsnodejs",
+  "version": "1.0.0",
+  "description": "Learn Nodejs Event",
+  "main": "events.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Devjyoti Mukherjee",
+  "license": "ISC"
+}
